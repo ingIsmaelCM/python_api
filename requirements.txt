@@ -1,0 +1,7 @@
+fastapi~=0.101.0        # Web Framework
+uvicorn>=0.30.3         # Server
+pydantic>=2.8.2         # Validation Library
+peewee>=3.17.6          # ORM
+pymysql>=1.1.1          # Mysql Connector
+python-dotenv~=1.0.1    # DotENV
+cryptography>=43.0.0    # Required for Peewee
